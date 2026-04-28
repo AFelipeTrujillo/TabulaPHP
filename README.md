@@ -8,11 +8,10 @@ No external extensions required. No compilation needed. Just PHP and SQLite (bun
 
 ## Key Features
 
-* 🚀 **Blazing Fast:** Leverages in-memory SQLite for optimized SQL-based aggregations and filtering.
-* 🪶 **Zero Dependencies:** No Rust, no Cargo, no native extensions. Just `composer install` and you're ready.
-* 🧩 **Clean Architecture:** Decoupled design following SOLID principles (Hexagonal Architecture). Easy to swap engines or mock for testing.
-* 🔗 **Fluent API:** An intuitive, modern PHP interface inspired by Pandas and Polars — with method chaining.
-* 📊 **Full Aggregation Support:** `mean()`, `sum()`, `min()`, `max()`, `count()` — both on DataFrames and grouped data.
+* **Blazing Fast:** Leverages in-memory SQLite for optimized SQL-based aggregations and filtering.
+* **Clean Architecture:** Decoupled design following SOLID principles (Hexagonal Architecture). Easy to swap engines or mock for testing.
+* **Fluent API:** An intuitive, modern PHP interface inspired by Pandas and Polars — with method chaining.
+* **Full Aggregation Support:** `mean()`, `sum()`, `min()`, `max()`, `count()` — both on DataFrames and grouped data.
 
 ---
 
